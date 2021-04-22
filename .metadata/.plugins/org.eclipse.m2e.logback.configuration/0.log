@@ -1,0 +1,74 @@
+2021-04-16 16:05:16,525 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-16 23:30:26,854 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-04-19 18:55:44,574 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-21 16:10:36,187 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2021-04-21 16:21:04,042 [Worker-17: Creating project "iterasys"] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: .com.qarentena:iterasys:0.0.1-SNAPSHOT @ D:\Projetos_Eclipse\iterasys\pom.xml.
+2021-04-21 16:21:04,492 [Worker-17: Creating project "iterasys"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /iterasys/src/main/java
+2021-04-21 16:21:04,493 [Worker-17: Creating project "iterasys"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /iterasys/src/main/resources
+2021-04-21 16:21:04,494 [Worker-17: Creating project "iterasys"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /iterasys/src/test/java
+2021-04-21 16:21:04,494 [Worker-17: Creating project "iterasys"] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /iterasys/src/test/resources
+2021-04-21 16:21:05,521 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 16:21:05,530 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 16:21:05,532 [Worker-23: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 16:21:05,536 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 16:26:40,156 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 16:26:40,165 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 16:26:40,169 [Worker-22: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 16:26:40,173 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 16:35:13,201 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qarentena:iterasys:0.0.1-SNAPSHOT @ D:\Projetos_Eclipse\iterasys\pom.xml.
+2021-04-21 16:35:13,440 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 16:35:13,445 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 16:35:13,447 [Worker-26: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 16:35:13,452 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 17:53:46,602 [Worker-33: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qarentena:iterasys:0.0.1-SNAPSHOT @ D:\Projetos_Eclipse\iterasys\pom.xml.
+2021-04-21 17:53:47,612 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 17:53:47,619 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 17:53:47,622 [Worker-33: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 17:53:47,627 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 18:00:41,438 [Worker-31: reload maven project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-java:pom:1.2.6 has been relocated to io.cucumber:cucumber-java:pom:1.2.6
+2021-04-21 18:00:42,905 [Worker-25: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qarentena:iterasys:0.0.1-SNAPSHOT @ D:\Projetos_Eclipse\iterasys\pom.xml.
+2021-04-21 18:00:43,083 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-java:pom:1.2.6 has been relocated to io.cucumber:cucumber-java:pom:1.2.6
+2021-04-21 18:00:43,486 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 18:00:43,492 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 18:00:43,494 [Worker-25: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 18:00:43,497 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 18:00:44,440 [Worker-31: Download sources and javadoc] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-java:pom:1.2.6 has been relocated to io.cucumber:cucumber-java:pom:1.2.6
+2021-04-21 18:00:45,496 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/io/cucumber/cucumber-core/1.2.6/cucumber-core-1.2.6-sources.jar
+2021-04-21 18:00:45,855 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/io/cucumber/cucumber-core/1.2.6/cucumber-core-1.2.6-sources.jar
+2021-04-21 18:00:45,869 [Worker-31: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for io.cucumber:cucumber-core:1.2.6
+2021-04-21 18:00:46,507 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/info/cukes/cucumber-html/0.2.3/cucumber-html-0.2.3-sources.jar
+2021-04-21 18:00:46,832 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/info/cukes/cucumber-html/0.2.3/cucumber-html-0.2.3-sources.jar
+2021-04-21 18:00:46,845 [Worker-31: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for info.cukes:cucumber-html:0.2.3
+2021-04-21 18:00:47,487 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/info/cukes/cucumber-jvm-deps/1.0.5/cucumber-jvm-deps-1.0.5-sources.jar
+2021-04-21 18:00:47,821 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/info/cukes/cucumber-jvm-deps/1.0.5/cucumber-jvm-deps-1.0.5-sources.jar
+2021-04-21 18:00:47,834 [Worker-31: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for info.cukes:cucumber-jvm-deps:1.0.5
+2021-04-21 18:00:48,424 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/info/cukes/gherkin/2.12.2/gherkin-2.12.2-sources.jar
+2021-04-21 18:00:49,232 [Worker-31: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/info/cukes/gherkin/2.12.2/gherkin-2.12.2-sources.jar
+2021-04-21 18:00:49,243 [Worker-31: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for info.cukes:gherkin:2.12.2
+2021-04-21 18:00:49,560 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 18:00:49,563 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 18:00:49,565 [Worker-31: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 18:00:49,569 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 18:01:31,265 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qarentena:iterasys:0.0.1-SNAPSHOT @ D:\Projetos_Eclipse\iterasys\pom.xml.
+2021-04-21 18:01:31,417 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-java:pom:1.2.6 has been relocated to io.cucumber:cucumber-java:pom:1.2.6
+2021-04-21 18:01:31,805 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 18:01:31,810 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 18:01:31,812 [Worker-38: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 18:01:31,816 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 18:10:17,257 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-04-21 18:10:17,797 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.qarentena:iterasys:0.0.1-SNAPSHOT @ D:\Projetos_Eclipse\iterasys\pom.xml.
+2021-04-21 18:10:17,920 [Worker-39: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-java:pom:1.2.6 has been relocated to io.cucumber:cucumber-java:pom:1.2.6
+2021-04-21 18:10:18,283 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /iterasys/src/main/java
+2021-04-21 18:10:18,283 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /iterasys/src/main/resources
+2021-04-21 18:10:18,284 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /iterasys/src/test/java
+2021-04-21 18:10:18,284 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /iterasys/src/test/resources
+2021-04-21 18:10:18,592 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2021-04-21 18:10:18,845 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact info.cukes:cucumber-java:pom:1.2.6 has been relocated to io.cucumber:cucumber-java:pom:1.2.6
+2021-04-21 18:10:18,913 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 18:10:18,917 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 18:10:18,921 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 18:10:18,927 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 18:12:53,590 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 18:12:53,596 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-04-21 18:12:53,598 [Worker-36: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2021-04-21 18:12:53,602 [Worker-36: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
